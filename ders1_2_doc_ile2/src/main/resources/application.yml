@@ -1,0 +1,13 @@
+server:
+  port: 8080
+#db:
+#  spring:
+#    datasource:
+#      type: com.zaxxer.hikari.HikariDataSource
+#      url: jdbc:mysql://localhost:3306/my
+#      username: root
+#      password: password
+#    jpa:
+#      hibernate.ddl-auto: update
+#      generate-ddl: true
+#      show-sql: true
